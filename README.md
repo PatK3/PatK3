@@ -8,7 +8,7 @@
 - <b>Java (Android Mobile Application)</b>
   - [College Course Registration Mobile Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - CIW Advance HTML5 & CSS3
 - CompTIA A+
