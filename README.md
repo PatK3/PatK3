@@ -10,10 +10,10 @@
 
 <h2>📜 Certifications</h2>
 
-- CIW Advance HTML5 & CSS3
-- CompTIA A+
-- Axelos ITIL Foundation Certificate
-- CIW User Interface Designer
+- [CIW Advance HTML5 & CSS3](https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/advanced-html5-and-css3-specialist)
+- [CompTIA A+](https://www.comptia.org/certifications/a)
+- [Axelos ITIL Foundation Certificate](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
+- [CIW User Interface Designer](https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/user-interface-designer)
 
 
 <h2> 🤳 Connect with me:</h2>
