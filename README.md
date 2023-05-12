@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java (Desktop Applications)</b>
-  - [Appointment Scheduling Application with MySQL Database]([https://github.com/joshmadakor1/EncrypterPOC](https://github.com/PatK3/SchedulingApplication))
+  - [Appointment Scheduling Application with MySQL Database](https://github.com/PatK3/SchedulingApplication))
   - [Inventory Management Application](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Java (Android Mobile Application)</b>
   - [College Course Registration Mobile Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
