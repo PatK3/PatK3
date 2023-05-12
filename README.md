@@ -6,7 +6,7 @@
   - [Appointment Scheduling Application with MySQL Database](https://github.com/PatK3/SchedulingApplication))
   - [Inventory Management Application](https://github.com/PatK3/InventoryManagement)
 - <b>Java (Android Mobile Application)</b>
-  - [College Course Registration Mobile Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [College Course Registration Mobile Application](https://github.com/PatK3/CourseRegistration)
 
 <h2>📜 Certifications</h2>
 
